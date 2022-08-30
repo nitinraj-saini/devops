@@ -2,4 +2,4 @@ nitin
 technology
 mindz
 nrs
-
+server
