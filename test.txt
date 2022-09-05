@@ -1,7 +1,0 @@
-nitin 
-technology
-mindz
-nrs
-server
-
-welcome to git
